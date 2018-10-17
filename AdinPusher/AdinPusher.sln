@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adin.Pusher.Domain", "Adin.Pusher.Domain\Adin.Pusher.Domain.csproj", "{9FF68F87-74A0-46F6-A081-8D954B4D33DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adin.Pusher.Api", "Adin.Pusher.Api\Adin.Pusher.Api.csproj", "{6DE4E087-D441-40A6-84E8-6F1F7255F775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF68F87-74A0-46F6-A081-8D954B4D33DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF68F87-74A0-46F6-A081-8D954B4D33DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF68F87-74A0-46F6-A081-8D954B4D33DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF68F87-74A0-46F6-A081-8D954B4D33DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE4E087-D441-40A6-84E8-6F1F7255F775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE4E087-D441-40A6-84E8-6F1F7255F775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE4E087-D441-40A6-84E8-6F1F7255F775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE4E087-D441-40A6-84E8-6F1F7255F775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
