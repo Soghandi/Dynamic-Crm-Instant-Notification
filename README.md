@@ -1,6 +1,6 @@
 # Dynamic Crm 365 Instant Notification
 
-Dynamic Crm 365 Instant Notification is a plugin that enables Microsoft Dynamic CRM 365 to send notifications to users instantly for different entities. you can add all the send notification with additional data to specific user or any organization in dynamic crm 365.
+Dynamic CRM 365 Instant Notification is a plugin that enables CRM to send notifications to users instantly for different entities. you can send notification with additional data to a specific user or any organization inside Dynamic CRM 365. 
 <br/>
 How to Setup:<br/>
 1-Build Adin Pusher Project and host it on your iis server.<br/>
